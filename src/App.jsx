@@ -6,8 +6,11 @@ function App() {
 
   return (
     <>
-    <div className='flex text-center items-center min-h-screen'>
-      <div>this  is weather app</div> 
+    <div className='flex justify-center items-center min-h-screen'>
+      <div className='flex-wrap text-center font-mono text-9xl capitalize text-white font-extrabold'>
+      <p>comming soon...</p> 
+
+      </div>
     </div>
     </>
   )

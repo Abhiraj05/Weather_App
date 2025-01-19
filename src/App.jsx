@@ -131,7 +131,7 @@ function App() {
                 </div>
               )}
               {enable && (
-                <div className="flex justify-center items-center gap-5 mt-5">
+                <div className="flex justify-center items-center gap-5 mt-6">
                   <div>
                     <div className="flex justify-center items-center gap-2 ">
                       <img  className="w-10 h-10" src={windicon} alt="" />

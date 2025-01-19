@@ -80,7 +80,7 @@ function App() {
   return (
     <>
       <div className="flex justify-center items-center min-h-screen">
-        <div className="flex-wrap text-center font-mono  capitalize text-white font-extrabold bg-gray-800 p-10 rounded-lg">
+        <div className="flex-wrap text-center font-mono  capitalize text-white font-extrabold bg-gray-800 p-10 rounded-2xl">
         {view && (<div className="flex justify-center items-center gap-5">
             <img className="h-12 w-12" src={icon} alt="" />
           <h1 className="text-3xl capitalize font-mono">weather app</h1>
